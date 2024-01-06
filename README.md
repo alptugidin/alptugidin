@@ -1,1 +1,1 @@
-<a href="https://app.daily.dev/alptugidin"><img src="https://api.daily.dev/devcards/8a4800051b76415c8cdc20f89bbb67bb.png?r=3tv" width="350" alt="Alptuğ İdin's Dev Card"/></a>
+![wa](https://github.com/alptugidin/alptugidin/assets/31244930/6ea3c925-27be-4540-909f-7c71b884f1ef)
